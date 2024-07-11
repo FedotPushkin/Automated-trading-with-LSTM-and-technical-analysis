@@ -1,3 +1,5 @@
+**!! This is a demo version and does not contain all source code!!**
+
 # LSTM Crypto Price Prediction 🎯
 The goal of this project is to predict the price trend of a given cryptocurrency using an LSTM-RNN. Technical analysis is applied to historical cryptocurrency price data in attempt to extract price action for automated trading. The output of the network indicates trend direction probability and can be used to trade crypto through Binance API.
 
